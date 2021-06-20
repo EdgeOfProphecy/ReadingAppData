@@ -1,21 +1,12 @@
 {
   "data": [
-    { "ingore" : ["h~h", "a~k", "b~k", "c~k", "d~k", "e~k", "f~k", "g~k", "h~k", "i~k", "j~k"]},
+    { "ignore" : ["h~h", "a~k", "b~k", "c~k", "d~k", "e~k", "f~k", "g~k", "h~k", "i~k", "j~k"]},
     { "ignore" : ["h~h", "k~k", "l~k", "m~k", "n~k", "o~k", "p~k", "q~k", "r~k", "s~k", "t~k"]},
     { "ignore" : ["h~h", "u~k", "v~k", "w~k", "x~k", "y~k", "z~k"]},
     { "ignore" : ["a~ae", "c~k", "t~t"]},
     { "ignore": ["s~s", "a~ae", "l~l"]},
     { "ignore" : ["t~t", "a~ae", "t~t"]},
-    
-    
-    ["a~ae", "t~t"],
-    ["a~ae", "m~m"],
-    ["a~ae", "t~t"],
-    ["a~ae", "m~m"],
-    ["a~ae", "t~t"],
-    ["a~ae", "m~m"],
-    ["a~ae", "t~t"],
-    ["a~ae", "m~m"],
+   
 
 
     ["c~k", "a~ae", "t~t"],
@@ -46,17 +37,6 @@
     ["f~f", "a~ae", "t~t"],
     ["b~b", "a~ae", "t~t"],
     ["p~p", "a~ae", "t~t"],
-
-
-
-
-
-    
-
-    
-    
-    
-
     
     ["c~k", "a~ae", "p~p"],
     ["s~s", "a~ae", "p~p"],
