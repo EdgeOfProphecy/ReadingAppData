@@ -6,14 +6,58 @@
     { "ignore" : ["a~ae", "c~k", "t~t"]},
     { "ignore": ["s~s", "a~ae", "l~l"]},
     { "ignore" : ["t~t", "a~ae", "t~t"]},
+    
+    
+    ["a~ae", "t~t"],
+    ["a~ae", "m~m"],
+    ["a~ae", "t~t"],
+    ["a~ae", "m~m"],
+    ["a~ae", "t~t"],
+    ["a~ae", "m~m"],
+    ["a~ae", "t~t"],
+    ["a~ae", "m~m"],
 
+
+    ["c~k", "a~ae", "t~t"],
+    ["f~f", "a~ae", "t~t"],
+    ["c~k", "a~ae", "t~t"],
+    ["f~f", "a~ae", "t~t"],
+    ["c~k", "a~ae", "t~t"],
+    ["f~f", "a~ae", "t~t"],
+    
+    
+    ["s~s", "a~ae", "t~t"],
+    ["m~m", "a~ae", "t~t"],
     ["c~k", "a~ae", "t~t"],
     ["s~s", "a~ae", "t~t"],
     ["m~m", "a~ae", "t~t"],
+    ["c~k", "a~ae", "t~t"],
+    
     ["p~p", "a~ae", "t~t"],
-    ["s~s", "e~eh", "t~t"],
     ["b~b", "a~ae", "t~t"],
-    ["r~r", "a~ae", "t~t"],
+    ["p~p", "a~ae", "t~t"],
+    ["b~b", "a~ae", "t~t"],
+    ["p~p", "a~ae", "t~t"],
+    ["b~b", "a~ae", "t~t"],
+    
+    ["c~k", "a~ae", "t~t"],
+    ["s~s", "a~ae", "t~t"],
+    ["m~m", "a~ae", "t~t"],
+    ["f~f", "a~ae", "t~t"]
+    ["b~b", "a~ae", "t~t"],
+    ["p~p", "a~ae", "t~t"],
+
+
+
+
+
+    
+
+    
+    
+    
+
+    
     ["c~k", "a~ae", "p~p"],
     ["s~s", "a~ae", "p~p"],
     ["l~l", "a~ae", "p~p"],
@@ -36,6 +80,7 @@
       "prompt": ["r~r", "e~eh", "d~d"],
       "altMatch" : ["read"]
     },
+    ["s~s", "e~eh", "t~t"],
     ["t~t", "e~eh", "d~d"],
     ["s~s", "a~ae", "d~d"],
     ["d~d", "a~ae", "d~d"],
